@@ -1,4 +1,10 @@
 id: 9f064834f3de414bae104b10dbfe6288
 annotation_type: Citation
-revision: '00001'
-annotations: {}
+revision: '00007'
+annotations:
+  b8f7be9cb8fd44a5bafe50f2e1ead39e:
+    span:
+      start: 99
+      end: 12570
+    metadata:
+      css_class_name: tibetan-citations-in-verse
